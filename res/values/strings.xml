@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bananal Bus</string>
+    <string name="action_settings">Sobre</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tab_bm">Barra Mansa/Bananal</string>
+    <string name="tab_bn">Bananal/Barra Mansa</string>
+ 	<string name="texto_sobre">Este aplicativo foi desenvolvido com intuito de ajudar a população de Bananal- SP que depende do transporte público da Viação Colitur. Não tenho nenhuma ligação com esta empresa. Atualmente sou morador da cidade de Bananal - SP.
+ 	    Desenvolvi este aplicativo para me ajudar pessoalmente nas viagens diárias a cidade de Barra Mansa- RJ </string>
+ 	<string name="bananal_bus">Bananal Bus</string>
+ 	<string name="dev">Desenvolvido por <b>Daniel Carlos de Souza</b></string> 
+ 	<string name="todo">TODO</string>
+    
+    
+    
+    
+</resources>
